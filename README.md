@@ -1,2 +1,2 @@
-# Automatism
-Automatic Warehouse, Pick&amp;Place, Palletizer, Batching, Sorting, ...
+# Automatisme
+
