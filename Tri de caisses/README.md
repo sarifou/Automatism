@@ -9,3 +9,5 @@ La bande d'alimentation (A) délivre aléatoirement des caisses hautes et basses
 le plateau tournant (C) et sont chargés à travers les rouleaux (D). Les palettes sont tournées de 90 ° par le plateau tournant (C) en fonction de la hauteur des caisses,
 qui est détecté à l'entrée des tables de transport (B). Les palettes sont ensuite déployées à travers les rouleaux (D) vers les tables de transport
 (E ou G). Enfin, ils sont expédiés vers les ascenseurs automatiques (F ou H)
+
+![description](https://github.com/sarifou/Automatism/blob/master/Tri%20de%20caisses/description.PNG)
